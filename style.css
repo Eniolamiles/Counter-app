@@ -1,0 +1,27 @@
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 30rem;
+  }
+
+  .dec{
+    background-color: black;
+    border-radius:8px;
+    width: 100px;
+    color: white;
+  }
+  .inc{
+    background-color: black;
+    border-radius:8px;
+    width: 100px;
+    color: white;
+  }
+  .res{
+    background-color: black;
+    border-radius:8px;
+    width: 100px;
+    color: white;
+  }
+
